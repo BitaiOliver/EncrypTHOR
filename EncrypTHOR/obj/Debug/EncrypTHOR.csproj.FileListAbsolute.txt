@@ -1,0 +1,10 @@
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\obj\Debug\EncrypTHOR.csprojResolveAssemblyReference.cache
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\obj\Debug\EncrypTHOR.EncrypTHOR.resources
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\obj\Debug\EncrypTHOR.Properties.Resources.resources
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\obj\Debug\EncrypTHOR.csproj.GenerateResource.Cache
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\obj\Debug\EncrypTHOR.csproj.CoreCompileInputs.cache
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\bin\Debug\EncrypTHOR.exe.config
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\bin\Debug\EncrypTHOR.exe
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\bin\Debug\EncrypTHOR.pdb
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\obj\Debug\EncrypTHOR.exe
+e:\Freelanceing\EncrypTHOR\EncrypTHOR\EncrypTHOR\obj\Debug\EncrypTHOR.pdb
